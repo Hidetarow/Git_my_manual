@@ -52,4 +52,4 @@ git diff master
 - ブランチをプッシュする。
 git push origin branch_name
 
-......おらおら
+......おらおら...おらおら...おらおら
